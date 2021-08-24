@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\VirusStore.exe
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\VirusStore.deps.json
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\VirusStore.runtimeconfig.json
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\VirusStore.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\VirusStore.dll
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\ref\VirusStore.dll
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\bin\Debug\net5.0\VirusStore.pdb
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.dll
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\ref\VirusStore.dll
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.pdb
+C:\Users\Lenovo\source\repos\VirusStore\VirusStore\obj\Debug\net5.0\VirusStore.genruntimeconfig.cache
